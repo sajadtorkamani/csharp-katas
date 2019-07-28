@@ -1,0 +1,17 @@
+/Users/sajad/code/csharp/csharp-katas/Kata.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/sajad/code/csharp/csharp-katas/Kata.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/sajad/code/csharp/csharp-katas/Kata.Tests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/sajad/code/csharp/csharp-katas/Kata.Tests/bin/Debug/netcoreapp2.2/Kata.Tests.deps.json
+/Users/sajad/code/csharp/csharp-katas/Kata.Tests/bin/Debug/netcoreapp2.2/Kata.Tests.runtimeconfig.json
+/Users/sajad/code/csharp/csharp-katas/Kata.Tests/bin/Debug/netcoreapp2.2/Kata.Tests.runtimeconfig.dev.json
+/Users/sajad/code/csharp/csharp-katas/Kata.Tests/bin/Debug/netcoreapp2.2/Kata.Tests.dll
+/Users/sajad/code/csharp/csharp-katas/Kata.Tests/bin/Debug/netcoreapp2.2/Kata.Tests.pdb
+/Users/sajad/code/csharp/csharp-katas/Kata.Tests/bin/Debug/netcoreapp2.2/Katas.dll
+/Users/sajad/code/csharp/csharp-katas/Kata.Tests/bin/Debug/netcoreapp2.2/Katas.pdb
+/Users/sajad/code/csharp/csharp-katas/Kata.Tests/obj/Debug/netcoreapp2.2/Kata.Tests.csprojAssemblyReference.cache
+/Users/sajad/code/csharp/csharp-katas/Kata.Tests/obj/Debug/netcoreapp2.2/Kata.Tests.csproj.CoreCompileInputs.cache
+/Users/sajad/code/csharp/csharp-katas/Kata.Tests/obj/Debug/netcoreapp2.2/Kata.Tests.AssemblyInfoInputs.cache
+/Users/sajad/code/csharp/csharp-katas/Kata.Tests/obj/Debug/netcoreapp2.2/Kata.Tests.AssemblyInfo.cs
+/Users/sajad/code/csharp/csharp-katas/Kata.Tests/obj/Debug/netcoreapp2.2/Kata.Tests.csproj.CopyComplete
+/Users/sajad/code/csharp/csharp-katas/Kata.Tests/obj/Debug/netcoreapp2.2/Kata.Tests.dll
+/Users/sajad/code/csharp/csharp-katas/Kata.Tests/obj/Debug/netcoreapp2.2/Kata.Tests.pdb
