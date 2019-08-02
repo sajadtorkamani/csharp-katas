@@ -5772,11 +5772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sajad/code/csharp/csharp-katas/Kata.Tests/Kata.Tests.csproj",
-      "projectName": "Kata.Tests",
-      "projectPath": "/Users/sajad/code/csharp/csharp-katas/Kata.Tests/Kata.Tests.csproj",
+      "projectUniqueName": "/Users/sajad/code/csharp/csharp-katas/Katas.Tests/Katas.Tests.csproj",
+      "projectName": "Katas.Tests",
+      "projectPath": "/Users/sajad/code/csharp/csharp-katas/Katas.Tests/Katas.Tests.csproj",
       "packagesPath": "/Users/sajad/.nuget/packages/",
-      "outputPath": "/Users/sajad/code/csharp/csharp-katas/Kata.Tests/obj/",
+      "outputPath": "/Users/sajad/code/csharp/csharp-katas/Katas.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

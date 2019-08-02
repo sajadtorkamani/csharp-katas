@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F459F8D5-A5D6-45E3-876E-7407A4CD10EF}|Default">
+  <MonoDevelop.Ide.ItemProperties.csharp-katas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Katas/LikesCounter.cs">
+    <Files>
+      <File FileName="Katas/LikesCounter.cs" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="csharp-katas" expanded="True">
+            <Node name="Katas" expanded="True">
+              <Node name="LikesCounter.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Katas.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

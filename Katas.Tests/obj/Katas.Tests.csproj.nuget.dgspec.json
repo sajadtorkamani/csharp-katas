@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sajad/code/csharp/csharp-katas/Katas.Tests/Katas.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/sajad/code/csharp/csharp-katas/Katas.Tests/Katas.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sajad/code/csharp/csharp-katas/Katas.Tests/Katas.Tests.csproj",
+        "projectName": "Katas.Tests",
+        "projectPath": "/Users/sajad/code/csharp/csharp-katas/Katas.Tests/Katas.Tests.csproj",
+        "packagesPath": "/Users/sajad/.nuget/packages/",
+        "outputPath": "/Users/sajad/code/csharp/csharp-katas/Katas.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/sajad/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/sajad/code/csharp/csharp-katas/Katas/Katas.csproj": {
+                "projectPath": "/Users/sajad/code/csharp/csharp-katas/Katas/Katas.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/sajad/code/csharp/csharp-katas/Katas/Katas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sajad/code/csharp/csharp-katas/Katas/Katas.csproj",
+        "projectName": "Katas",
+        "projectPath": "/Users/sajad/code/csharp/csharp-katas/Katas/Katas.csproj",
+        "packagesPath": "/Users/sajad/.nuget/packages/",
+        "outputPath": "/Users/sajad/code/csharp/csharp-katas/Katas/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/sajad/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
