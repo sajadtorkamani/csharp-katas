@@ -6,6 +6,7 @@ namespace Katas
 {
     public class CharRemover
     {
+        // TODO: should use a more concise regex solution.
         public static string Remove(string str, Dictionary<char, int> dict)
         {
             foreach (var item in dict)
