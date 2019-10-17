@@ -28,7 +28,7 @@ namespace Kata.Tests
         [Test]
         public void Calculate__returns_null_when_any_age_is_negative()
         {
-            Assert.AreEqual(null, GetAges.Calculate(5, -10));
+            Assert.AreEqual(null, GetAges.Calculate(31, 72));
         }
     }
 }

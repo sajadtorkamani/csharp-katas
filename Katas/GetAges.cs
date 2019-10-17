@@ -12,6 +12,11 @@ namespace Katas
             double older = difference + ((sum - difference) / 2d);
             double younger = sum - older;
 
+            if (older < 0 || younger < 0)
+            {
+                return null;
+            }
+
             return new[] {older, younger};
         }
     }
