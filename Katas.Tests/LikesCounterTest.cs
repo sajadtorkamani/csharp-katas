@@ -2,10 +2,10 @@ using NUnit.Framework;
 
 namespace Katas.Tests
 {
-    public class LikesCounter_EvalLikesShould
+    public class LikesCounterTest
     {
         [Test]
-        public void ReturnCorrectResult()
+        public void EvalLikes__returns_correct_result()
         {
             Assert.AreEqual(true, LikesCounter.EvalLikes(new string[] {"today", "was", "so", "like", "awesome"}));
 

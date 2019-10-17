@@ -2,10 +2,10 @@ using NUnit.Framework;
 
 namespace Katas.Tests
 {
-    public class AddColorsTests_AdditiveColorsShould
+    public class AddColorsTest
     {
         [Test]
-        public void ReturnCorrectResult()
+        public void AdditiveColors__returns_correct_result()
         {
             Assert.AreEqual("White", AddColors.AdditiveColors("Red,Green,Blue"));
             Assert.AreEqual("Yellow", AddColors.AdditiveColors("Red,Green"));
