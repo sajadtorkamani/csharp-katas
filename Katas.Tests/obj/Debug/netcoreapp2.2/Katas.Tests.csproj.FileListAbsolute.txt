@@ -9,7 +9,6 @@
 /Users/sajad/code/csharp/csharp-katas/Katas.Tests/bin/Debug/netcoreapp2.2/Katas.dll
 /Users/sajad/code/csharp/csharp-katas/Katas.Tests/bin/Debug/netcoreapp2.2/Katas.pdb
 /Users/sajad/code/csharp/csharp-katas/Katas.Tests/obj/Debug/netcoreapp2.2/Katas.Tests.csprojAssemblyReference.cache
-/Users/sajad/code/csharp/csharp-katas/Katas.Tests/obj/Debug/netcoreapp2.2/Katas.Tests.csproj.CoreCompileInputs.cache
 /Users/sajad/code/csharp/csharp-katas/Katas.Tests/obj/Debug/netcoreapp2.2/Katas.Tests.AssemblyInfoInputs.cache
 /Users/sajad/code/csharp/csharp-katas/Katas.Tests/obj/Debug/netcoreapp2.2/Katas.Tests.AssemblyInfo.cs
 /Users/sajad/code/csharp/csharp-katas/Katas.Tests/obj/Debug/netcoreapp2.2/Katas.Tests.csproj.CopyComplete

@@ -2,7 +2,6 @@
 /Users/sajad/code/csharp/csharp-katas/Katas/bin/Debug/netstandard2.0/Katas.dll
 /Users/sajad/code/csharp/csharp-katas/Katas/bin/Debug/netstandard2.0/Katas.pdb
 /Users/sajad/code/csharp/csharp-katas/Katas/obj/Debug/netstandard2.0/Katas.csprojAssemblyReference.cache
-/Users/sajad/code/csharp/csharp-katas/Katas/obj/Debug/netstandard2.0/Katas.csproj.CoreCompileInputs.cache
 /Users/sajad/code/csharp/csharp-katas/Katas/obj/Debug/netstandard2.0/Katas.AssemblyInfoInputs.cache
 /Users/sajad/code/csharp/csharp-katas/Katas/obj/Debug/netstandard2.0/Katas.AssemblyInfo.cs
 /Users/sajad/code/csharp/csharp-katas/Katas/obj/Debug/netstandard2.0/Katas.dll
