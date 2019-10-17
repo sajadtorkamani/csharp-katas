@@ -9,7 +9,7 @@ namespace Katas
     {
         public static int? LowestTemperature(string str)
         {
-            if (str.Length == 0)
+            if (string.IsNullOrEmpty(str))
             {
                 return null;
             }
