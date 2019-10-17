@@ -8,7 +8,7 @@ namespace Katas
     {
         public static string ToInitials(string name)
         {
-            var initials = name.Split(" ").Select(word => word[0] + ".");
+            var initials = name.Split(" ").Select(word => word.First() + ".");
 
             return string.Join(" ", initials);
         }
