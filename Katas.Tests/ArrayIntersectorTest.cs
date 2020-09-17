@@ -21,10 +21,4 @@ namespace Katas.Tests
             Assert.AreEqual(new string[] { }, ArrayIntersector.Intersect(new string[][] { }));
         }
     }
-
-    /**
-     * Join all arrays
-     * Uniqify array ("dog", "bar", "foo", "cat", "gin")
-     * From unique array, select only items that occur in all arrays
-     */
 }
