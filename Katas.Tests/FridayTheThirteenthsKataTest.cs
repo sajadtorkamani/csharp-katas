@@ -22,10 +22,3 @@ namespace Katas.Tests
         }
     }
 }
-
-/**
- * Create fridayTheThirteenths list
- * Iterate from start year to end year (inclusive)
- *     Check if the 13th of each month is a Friday - if so, add to list
- *  Return formatted list
- */
