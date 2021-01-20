@@ -1,5 +1,3 @@
-// https://www.codewars.com/kata/array-intersect-all/train/csharp
-
 using System.Linq;
 
 namespace Katas
