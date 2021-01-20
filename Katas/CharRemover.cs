@@ -1,5 +1,3 @@
-// https://www.codewars.com/kata/not-all-but-sometimes-all/train/csharp
-
 using System.Collections.Generic;
 
 namespace Katas
