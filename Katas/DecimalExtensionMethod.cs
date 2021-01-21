@@ -1,5 +1,3 @@
-// https://www.codewars.com/kata/format-number-as-currency-using-extension-method/train/csharp
-
 using System;
 
 namespace Katas
