@@ -1,4 +1,3 @@
-// https://www.codewars.com/kata/playing-with-digits/train/csharp
 using System;
 using System.Linq;
 
